@@ -3,7 +3,7 @@
 This script reads person data from `inputData.json` and field mappings from `mappings.json`,  
 then syncs it with **Pipedrive** by creating or updating the person based on their name.
 
-## Issue in the mapping file give 
+## Issue in the mapping file given
   The mapping.json third entity has a typo in inputKey.This typo would mismatch the pipedrive matching.So please admin correct it.
   I have changed it while making the project.The Changes done in mappping.json is as below:
   Before 
